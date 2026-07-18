@@ -6,6 +6,12 @@ I use this GitHub to document how I am rebuilding my quantitative toolkit throug
 
 The thread I care about is simple: how messy real-world problems become structured data questions, and how analysis can support better decisions. I like projects that start with a messy spreadsheet and end with a clearer decision.
 
+## Currently Working On
+
+- Reconstructing an industry rotation backtesting framework in Python
+- Turning ESG disclosure materials into structured indicators and completeness analysis
+- Rebuilding SQL and pandas workflows for business analytics questions
+
 ## Analytical Themes
 
 | Theme | Questions I Am Asking | Methods I Am Practicing |
