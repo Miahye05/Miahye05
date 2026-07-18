@@ -1,6 +1,6 @@
 # Jiawei Ye
 
-Curious about data, business, and decision-making.
+Curious about business questions, data, and better decisions.
 
 I use this GitHub to document how I turn business questions into reproducible analytical projects. Most of my questions come from settings I have worked with: financial markets, ESG disclosure, trade policy, and AI-mediated consumer decisions.
 
