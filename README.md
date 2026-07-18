@@ -4,7 +4,7 @@ Curious about business questions, data, and better decisions.
 
 I use this GitHub to document how I turn business questions into reproducible analytical projects. Most of my questions come from settings I have worked with: financial markets, ESG disclosure, trade policy, and AI-mediated consumer decisions.
 
-The thread I care about is simple: how messy real-world problems become structured data questions, and how analysis can support better decisions. I like projects that start with a messy spreadsheet and end with a clearer decision.
+The thread I care about is simple, how messy real-world problems become structured data questions, and how analysis can support better decisions. I like projects that start with a messy spreadsheet and end with a clearer decision.
 
 ## Currently Working On
 
@@ -21,16 +21,8 @@ The thread I care about is simple: how messy real-world problems become structur
 | Policy and business empirics | How do policies or platform tools affect business outcomes? | panel data, DID, regression |
 | AI and consumer decisions | How does AIGC affect trust, adoption, and sharing behavior? | survey design, mediation analysis, behavioral analytics |
 
-## Project Tracks
-
-- Industry Rotation Strategy Backtest
-- ESG Disclosure Data Engineering Pipeline
-- Trade Policy Impact Evaluation
 
 ## Analytical Toolkit
 
 Python · pandas · SQL · Stata · R · Jupyter · regression · panel data · backtesting
 
-## Working Principle
-
-If I cannot explain the data, assumptions, method, results, and limitations, I do not understand the project well enough yet.
