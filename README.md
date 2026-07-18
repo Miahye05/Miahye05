@@ -2,19 +2,19 @@
 
 Curious about data, business, and decision-making.
 
-I use this GitHub to document how I am rebuilding my quantitative toolkit through small, reproducible projects. Most of my questions come from business settings I have worked with: financial markets, ESG disclosure, trade policy, and AI-mediated consumer decisions.
+I use this GitHub to document how I turn business questions into reproducible analytical projects. Most of my questions come from settings I have worked with: financial markets, ESG disclosure, trade policy, and AI-mediated consumer decisions.
 
 The thread I care about is simple: how messy real-world problems become structured data questions, and how analysis can support better decisions. I like projects that start with a messy spreadsheet and end with a clearer decision.
 
 ## Currently Working On
 
-- Reconstructing an industry rotation backtesting framework in Python
-- Turning ESG disclosure materials into structured indicators and completeness analysis
-- Rebuilding SQL and pandas workflows for business analytics questions
+- Developing a Python backtesting framework for industry rotation using prosperity and valuation signals
+- Building an ESG disclosure data engineering pipeline for indicator design, completeness scoring, and missingness analysis
+- Designing reusable SQL and pandas workflows for decision analytics, including KPI tracking, cohort logic, and reproducible reporting
 
 ## Analytical Themes
 
-| Theme | Questions I Am Asking | Methods I Am Practicing |
+| Theme | Questions I Am Asking | Methods and Tools |
 |---|---|---|
 | Financial decision analytics | Can industry fundamentals and valuation signals support allocation decisions? | Python, pandas, backtesting, performance metrics |
 | ESG data engineering | How can sustainability disclosures become structured and comparable data? | data cleaning, indicator design, missingness analysis |
@@ -27,7 +27,7 @@ The thread I care about is simple: how messy real-world problems become structur
 - ESG Disclosure Data Engineering Pipeline
 - Trade Policy Impact Evaluation
 
-## Toolkit in Progress
+## Analytical Toolkit
 
 Python · pandas · SQL · Stata · R · Jupyter · regression · panel data · backtesting
 
