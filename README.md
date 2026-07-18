@@ -1,37 +1,39 @@
 # Jiawei Ye
 
-Curious notes, business data, and decision puzzles.
+Curious about data, business, and decision-making.
 
-I am building an applied analytics portfolio around financial markets, ESG data, and empirical business research. I am especially interested in how messy business realities can be translated into data structures, models, and better decisions.
+My long-term goal is to become a decision scientist who bridges business strategy, data analytics, and quantitative modeling. This repository documents my journey of turning real-world business questions into reproducible analytical projects.
 
-This GitHub is not meant to be a coding trophy shelf. I use it as a learning and evidence space: a place to rebuild my quantitative toolkit, document what I understand, and turn scattered research and internship work into reproducible analytical projects.
+I am building an applied analytics portfolio around decision analytics, financial markets, ESG information, and empirical business research. I am especially interested in translating messy business realities into structured data, analytical models, and evidence-based decisions.
 
-## What I Am Exploring
+This GitHub is not intended to showcase coding for its own sake. I use it as a research notebook and project portfolio: a place to document what I learn, rebuild my quantitative toolkit, and turn scattered coursework, research, and internship experiences into reproducible analytical work.
 
-| Track | Question | Methods I Am Practicing |
+## Analytical Themes
+
+| Theme | Question | Methods I Am Practicing |
 |---|---|---|
-| Financial Decision Analytics | Can industry fundamentals and valuation signals support allocation decisions? | Python, pandas, backtesting, rolling signals, performance metrics |
-| ESG Data Infrastructure | How can corporate sustainability disclosures become structured and comparable data? | data cleaning, indicator design, missingness analysis, visualization |
-| Policy & Business Empirics | How do policy changes or platform tools affect business outcomes? | panel data, DID, regression, research design |
-| AI & Consumer Decisions | How does AIGC change trust, adoption, and sharing behavior? | survey design, mediation analysis, behavioral modeling |
+| Decision Analytics for Financial Markets | Can industry fundamentals and valuation signals support allocation decisions? | Python, pandas, backtesting, rolling signals, performance metrics |
+| ESG Data Engineering | How can corporate sustainability disclosures become structured and comparable data? | data cleaning, indicator design, missingness analysis, visualization |
+| Policy and Business Empirics | How do policy changes or platform tools affect business outcomes? | panel data, DID, regression, research design |
+| AI and Consumer Decision Analytics | How does AIGC change trust, adoption, and sharing behavior? | survey design, causal inference, mediation analysis, behavioral analytics |
 
 ## Project Tracks
 
-### Industry Prosperity-Valuation Rotation Backtest
+### Industry Rotation Strategy Backtest
 
-A public-data reconstruction of an industry rotation framework using prosperity and valuation signals.
+Using prosperity and valuation signals to reconstruct an industry rotation framework for allocation decision support.
 
-Planned outputs:
+Deliverables:
 - signal construction notebook
 - NAV and drawdown curves
-- annualized return, volatility, Sharpe ratio, max drawdown
+- annualized return, volatility, Sharpe ratio, and max drawdown
 - robustness checks across thresholds and rebalancing rules
 
-### ESG Disclosure Data Pipeline
+### ESG Disclosure Data Engineering Pipeline
 
 A structured project based on oil-and-gas ESG disclosure analysis, focusing on how reports, policy standards, and industry-specific risks can be transformed into indicator-level data.
 
-Planned outputs:
+Deliverables:
 - indicator dictionary
 - disclosure completeness score
 - missingness heatmap
@@ -41,16 +43,18 @@ Planned outputs:
 
 A panel-data project studying the relationship between overseas economic cooperation zones and export upgrading among RCEP countries.
 
-Planned outputs:
+Deliverables:
 - country-year panel construction notes
-- DID model notebook
-- regression tables
-- robustness and limitations summary
+- difference-in-differences model notebook
+- regression tables and robustness diagnostics
+- identification assumptions and limitations summary
 
 ## Toolkit in Progress
 
-Python · SQL · R · Stata · pandas · data visualization · regression · panel data · backtesting
+Python · pandas · SQL · Stata · R · Jupyter · data visualization · regression · panel data · backtesting
 
 ## Working Principle
 
-If a project appears here, I should be able to explain the data, the assumptions, the code, the results, and the limitations.
+Every project in this repository should be reproducible, interpretable, and explainable.
+
+If I cannot explain the data, assumptions, methodology, results, and limitations, then I do not yet understand the project well enough.
